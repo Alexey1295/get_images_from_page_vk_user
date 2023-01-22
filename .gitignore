@@ -1,0 +1,21 @@
+# IDE, venvs, cache
+.idea/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/
+
+# Build
+*.egg-info/
+
+# Env files
+*.env
+
+# data
+results/
+
+# profiler data
+profiler/
+
+# logs
+*.log
